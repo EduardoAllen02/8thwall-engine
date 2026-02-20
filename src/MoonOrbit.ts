@@ -1,7 +1,7 @@
 import * as ecs from '@8thwall/ecs'
 
 ecs.registerComponent({
-  name: 'Moon Orbit',
+  name: 'MoonOrbit',
   schema: {
     distance: ecs.f32,
     duration: ecs.f32,

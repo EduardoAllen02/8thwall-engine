@@ -16,7 +16,7 @@
     },
     "earth-entity-001": {
       "components": {
-        "Moon Orbit": {
+        "MoonOrbit": {
           "distance": 3,
           "duration": 10000
         }
