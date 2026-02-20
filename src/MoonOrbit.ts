@@ -49,6 +49,10 @@ ecs.registerComponent({
     ecs.GltfModel.set(world, moon, {
       url: 'assets/Moon.glb',
     })
+    // Cargar modelo Earth en la entidad principal
+    ecs.GltfModel.set(world, component.eid, {
+      url: 'assets/Earth.glb',
+    })
   },
   tick: (world, component) => {
     // Define the behavior of the component on each tick (empty in this case)

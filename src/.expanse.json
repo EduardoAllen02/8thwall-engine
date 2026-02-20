@@ -27,7 +27,7 @@
         1
       ]
     },
-    "earth-entity-001": {
+    ,"earth-entity-001": {
       "components": {
         "Moon Orbit": {
           "distance": 3,
@@ -40,10 +40,7 @@
       "name": "Earth",
       "position": [0, 0, -3],
       "rotation": [0, 0, 0, 1],
-      "scale": [1, 1, 1],
-      "model": {
-        "url": "assets/Earth.glb"
-      }
+      "scale": [1, 1, 1]
     },
     "a608ddd9-9379-464d-966f-5d8d8674c83c": {
       "camera": {
